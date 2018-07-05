@@ -10,7 +10,6 @@ We know what HTML tags look like. But how do they work in practice? Let's put on
 2. Set the inner text of the `h1` to `Hello, World!`
 
 ## Code an `h1` Tag
-
 Open `index.html` in your text editor. Add the `h1` opening and closing tags.
 
 ## Set the Inner Text
